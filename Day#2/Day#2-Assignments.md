@@ -27,16 +27,22 @@
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
 > Add your answer here!
+> ![](d_v.png)
+
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
 > Add your answer here!
+> ![image](https://github.com/user-attachments/assets/212b8834-4820-42f2-ac16-6189021ede5a)
+
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
 > Add your answer here!
+> ![image](https://github.com/user-attachments/assets/fa24e640-e882-460c-8382-d6c5249ffa97)
+
 
 ***
 
