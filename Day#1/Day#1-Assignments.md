@@ -52,7 +52,7 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
- NASA's Mars Rover (Powers rover)
+ NASA's Mars Rover (AWS)
 - Logo:
 - ![mars_rover](https://github.com/user-attachments/assets/23c17271-17c4-460c-80f2-ff8a6b5dd0ee)
 - Details: AWS powers NASA's analysis of images and videos sent from Mars, handling complex data storage and processing tasks.
