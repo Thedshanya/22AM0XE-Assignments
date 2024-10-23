@@ -78,6 +78,8 @@
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
 > Add your answer here!
+>
+> https://github.com/Thedshanya/22AM0XE-Assignments/blob/7376221CD155/Thedshanya/takeaway.md
 
 ***
 
