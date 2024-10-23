@@ -92,5 +92,8 @@ https://github.com/SanthoshNC/22AM0XE-Assignments/forks?page=2
 
 #### #6 Create a LinkedIn account with personal mail ID
 > Add your answer here!
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7254902611034681344/
+>
+> ![image](https://github.com/user-attachments/assets/4621ed5a-3210-4998-b25f-b87c42b0e635)
 
 ***
