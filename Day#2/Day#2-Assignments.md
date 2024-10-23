@@ -84,4 +84,5 @@
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
 > Add your answer here!
 
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7254902611034681344/
 ***
