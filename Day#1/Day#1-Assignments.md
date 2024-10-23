@@ -50,6 +50,9 @@
 > - Import the NumPy library and create a 2x2 matrix, then print it.
 > - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
 
+
+![image](https://github.com/user-attachments/assets/5325d639-b5eb-44d0-92c1-e028f92eca24)
+
 ***
 
 #### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
